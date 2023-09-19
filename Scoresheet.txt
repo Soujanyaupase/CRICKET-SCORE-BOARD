@@ -1,0 +1,22 @@
+
+
+	BATTING TEAM STATS:
+
+	1  a         : 0  Runs  0  Balls  NOT-OUT
+	2  b         : 0  Runs  0  Balls  NOT-OUT
+	3  c         : 0  Runs  0  Balls  NOT-OUT
+	4  d         : 8  Runs  5  Balls  OUT
+	5  e         : 0  Runs  0  Balls  NOT-OUT
+	6  f         : 0  Runs  0  Balls  NOT-OUT  *Non Strike
+	7  g         : 0  Runs  0  Balls  NOT-OUT
+	8  h         : 31 Runs  7  Balls  NOT-OUT  *Strike
+	9  i         : 0  Runs  0  Balls  NOT-OUT
+	10 j         : 0  Runs  0  Balls  NOT-OUT
+	11 k         : 0  Runs  0  Balls  NOT-OUT
+
+	BOWLING TEAM STATS:
+
+	3  3         : 6  Balls  0  Wickets
+	7  7         : 6  Balls  1  Wickets
+
+	OVERS: 		SCORE: 41
